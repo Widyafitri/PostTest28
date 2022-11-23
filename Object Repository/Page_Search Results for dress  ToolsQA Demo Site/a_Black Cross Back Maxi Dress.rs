@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Black Cross Back Maxi Dress</name>
+   <tag></tag>
+   <elementGuidId>940fc7aa-f56a-47b0-a76f-a8faf135441c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='noo-site']/div[2]/div[2]/div/div/div[15]/div/h3/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.noo-product-item.one.noo-product-sm-4.not_featured.post-1162.product.type-product.status-publish.has-post-thumbnail.product_cat-dress.product_cat-maxi-dresses.product_tag-dress.product_tag-maxi.product_tag-women.has-featured.instock.sale.shipping-taxable.purchasable.product-type-variable > div.noo-product-inner > h3 > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>7c61637f-9e9a-4eef-8014-1eed7746f500</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://shop.demoqa.com/product/black-cross-back-maxi-dress/</value>
+      <webElementGuid>83a671c5-0f27-46a7-8aeb-f0e18b140d94</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Black Cross Back Maxi Dress</value>
+      <webElementGuid>cb52393b-9bca-47f2-8c50-c8fa45a4abd0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;noo-site&quot;)/div[@class=&quot;noo-container-shop noo-shop-wrap&quot;]/div[@class=&quot;noo-row&quot;]/div[@class=&quot;noo-md-12 one&quot;]/div[@class=&quot;products noo-row&quot;]/div[@class=&quot;noo-product-item one noo-product-sm-4 not_featured post-1162 product type-product status-publish has-post-thumbnail product_cat-dress product_cat-maxi-dresses product_tag-dress product_tag-maxi product_tag-women has-featured  instock sale shipping-taxable purchasable product-type-variable&quot;]/div[@class=&quot;noo-product-inner&quot;]/h3[1]/a[1]</value>
+      <webElementGuid>802ff005-e321-4a45-b522-d1f07fadbf51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ae433051-db66-4c30-ae2a-52b01bd0007c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://shop.demoqa.com/product/black-cross-back-maxi-dress/</value>
+      <webElementGuid>6577907b-5080-4a3d-b836-cc3e77ab98e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Black Cross Back Maxi Dress</value>
+      <webElementGuid>897cb008-29e8-41e0-b2ca-15c94cb39d11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;noo-site&quot;)/div[@class=&quot;noo-container-shop noo-shop-wrap&quot;]/div[@class=&quot;noo-row&quot;]/div[@class=&quot;noo-md-12 one&quot;]/div[@class=&quot;products noo-row&quot;]/div[@class=&quot;noo-product-item one noo-product-sm-4 not_featured post-1162 product type-product status-publish has-post-thumbnail product_cat-dress product_cat-maxi-dresses product_tag-dress product_tag-maxi product_tag-women has-featured  instock sale shipping-taxable purchasable product-type-variable&quot;]/div[@class=&quot;noo-product-inner&quot;]/h3[1]/a[1]</value>
+      <webElementGuid>0d102d08-a076-4c79-9fcd-7d85ca0f08cf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='noo-site']/div[2]/div[2]/div/div/div[15]/div/h3/a</value>
+      <webElementGuid>157a2152-da27-4359-9e82-3cfa5e5ac795</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Black Cross Back Maxi Dress')]</value>
+      <webElementGuid>10f6dd6f-1271-4fd5-8dec-a749ddee5f15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select options'])[14]/following::a[1]</value>
+      <webElementGuid>e2eea572-ff2c-4911-a8c8-51f8683609ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='₹'])[20]/following::a[2]</value>
+      <webElementGuid>2b8610a5-d9f6-483d-94ab-528024436887</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dress'])[9]/preceding::a[1]</value>
+      <webElementGuid>6de7e68b-ccf7-4a29-a9a7-78d0eff11a5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sale!'])[3]/preceding::a[2]</value>
+      <webElementGuid>4e1f8a0a-e020-4ad5-897a-03aed2be3385</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Black Cross Back Maxi Dress']/parent::*</value>
+      <webElementGuid>b66fce18-e0f3-43e1-b57c-175f1cfcc332</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://shop.demoqa.com/product/black-cross-back-maxi-dress/')])[3]</value>
+      <webElementGuid>aa3a9a71-ce4d-4932-8c62-e75926e63ddd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[15]/div/h3/a</value>
+      <webElementGuid>7cf89a6c-4fe5-4785-aad8-6a657be3ff39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://shop.demoqa.com/product/black-cross-back-maxi-dress/' and (text() = 'Black Cross Back Maxi Dress' or . = 'Black Cross Back Maxi Dress')]</value>
+      <webElementGuid>8f279723-ce99-4330-ad21-f367475b44e4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
